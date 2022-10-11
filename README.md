@@ -1,6 +1,6 @@
 ## About Me
 
-- I'm a data scientist and educator -- and I like learning languages, both human and computer.
+- I'm a data scientist and educator &mdash; and I like learning languages, both human and computer.
 - My interests include transportation, sustainable (urban) development, and post-humanism. 
 - [Borges](https://en.wikipedia.org/wiki/Averroes%27s_Search) inspired my username.
 
