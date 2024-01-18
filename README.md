@@ -1,8 +1,9 @@
 ## About Me
 
-- I'm a [data scientist](https://buscandoaverroes.github.io/) and educator.
-- I'm into transportation, sustainable development, and post-humanism. 
+- I'm an engineer, data scientist, and educator.
+- I'm into transportation, sustainable development, post-humanism, and plant-based food.
 - [Borges](https://en.wikipedia.org/wiki/Averroes%27s_Search) inspired my username.
+- Thi
 
 <!---
 buscandoaverroes/buscandoaverroes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
